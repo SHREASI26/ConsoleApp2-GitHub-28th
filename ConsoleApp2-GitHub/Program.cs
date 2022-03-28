@@ -11,6 +11,7 @@ namespace ConsoleApp2_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("new line added");
+            Console.WriteLine("Second line added");
         }
     }
 }
